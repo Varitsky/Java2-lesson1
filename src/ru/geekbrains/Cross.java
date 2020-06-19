@@ -12,3 +12,4 @@ public class Cross extends Obstacle {
         competitor.run(dist);
     }
 }
+

@@ -12,3 +12,4 @@ public class Water extends Obstacle {
         competitor.swim(dist);
     }
 }
+
