@@ -61,3 +61,4 @@ public class Human implements Competitor {
     }
 
 }
+

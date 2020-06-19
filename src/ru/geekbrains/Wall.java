@@ -12,3 +12,4 @@ public class Wall extends Obstacle {
         competitor.jump(height);
     }
 }
+
